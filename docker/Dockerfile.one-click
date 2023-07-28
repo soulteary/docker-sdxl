@@ -1,2 +1,2 @@
-FROM soulteary/sdxl
+FROM soulteary/sdxl:runtime
 COPY ./stabilityai /app/stabilityai
