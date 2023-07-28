@@ -1,2 +1,3 @@
 FROM soulteary/sdxl:base
+RUN pip uninstall transformer-engine -y
 COPY src/diffusion-pipeline/*.py ./
