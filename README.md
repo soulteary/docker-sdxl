@@ -2,6 +2,8 @@
 
 简单、靠谱的 SDXL Docker 使用方案。
 
+![](.github/preview.png)
+
 ## 镜像下载地址
 
 - 百度网盘: TBD
@@ -20,6 +22,10 @@ soulteary/sdxl:runtime-xformers
 # 包含所有模型的镜像
 soulteary/sdxl:all-xformers
 ```
+
+## 额外计划
+
+- 集成 2～3 种主流 UI
 
 ## 手动构建
 
