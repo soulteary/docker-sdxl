@@ -1,5 +1,2 @@
-FROM nvcr.io/nvidia/pytorch:23.06-py3
-RUN pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
-RUN pip install accelerate transformers diffusers gradio ftfy invisible_watermark
-WORKDIR /app
+FROM soulteary/sdxl:base
 COPY src/diffusion-pipeline/*.py ./
