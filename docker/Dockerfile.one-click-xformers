@@ -1,0 +1,5 @@
+FROM soulteary/sdxl:base
+RUN pip install modin[all] xformers
+WORKDIR /app
+COPY src/with-xformers/*.py ./
+COPY ./stabilityai /app/stabilityai
