@@ -1,4 +1,5 @@
 FROM soulteary/sdxl:base
 RUN pip install modin[all] xformers
+RUN pip uninstall transformer-engine -y
 WORKDIR /app
 COPY src/with-xformers/*.py ./
