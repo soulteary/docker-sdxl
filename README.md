@@ -15,6 +15,10 @@
 ## 使用教程
 
 - 第一篇：《[使用 Docker 快速上手 Stability AI 的 SDXL 1.0 正式版](https://zhuanlan.zhihu.com/p/646706041)》
+- 第二篇：TBD
+- 第三篇：TBD
+
+- 环境准备：《[基于 Docker 的深度学习环境：Windows 篇](https://zhuanlan.zhihu.com/p/646758615)》/ 《[基于 Docker 的深度学习环境：入门篇](https://soulteary.com/2023/03/22/docker-based-deep-learning-environment-getting-started.html)》
 
 ## 快速启动
 
