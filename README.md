@@ -10,7 +10,6 @@
 
 - 百度网盘: [SDXL 1.0](https://pan.baidu.com/s/1WKZEPFCvCpg-e4KlDT6bLw?pwd=soul#list/path=%2F)
 - 运行环境: [Docker 模型运行环境](https://pan.baidu.com/s/1MjJrtubxs-APvlEBO0XYCQ?pwd=soul#list/path=%2F) ，不想自己构建的同学可选
-- 迅雷网盘: TBD
 
 ## 使用教程
 
@@ -57,3 +56,7 @@ soulteary/sdxl:runtime-xformers
 # 包含所有模型的镜像
 soulteary/sdxl:all-xformers
 ```
+
+## 相关项目
+
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
