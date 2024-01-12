@@ -63,3 +63,10 @@ soulteary/sdxl:all-xformers
 ## 相关项目
 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
+- Stable Diffusion XL: https://github.com/soulteary/docker-sdxl
+- Stable Diffusion XL Turbo: https://github.com/soulteary/docker-stable-diffusion-xl-turbo
+- Stable Video Diffusion: https://github.com/soulteary/docker-stable-video-diffusion
+- Docker Prompt Generator: https://github.com/soulteary/docker-prompt-generator
+- Apple ML Stable Diffusion: https://github.com/soulteary/ml-stable-diffusion
+- Taiyi Stable Diffusion: https://github.com/soulteary/docker-stable-diffusion-taiyi
+
