@@ -19,6 +19,8 @@
 
 
 - 环境准备：《[基于 Docker 的深度学习环境：Windows 篇](https://zhuanlan.zhihu.com/p/646758615)》/ 《[基于 Docker 的深度学习环境：入门篇](https://soulteary.com/2023/03/22/docker-based-deep-learning-environment-getting-started.html)》
+- 模型下载：《[节省时间：AI 模型靠谱下载方案汇总](https://soulteary.com/2024/01/09/summary-of-reliable-download-solutions-for-ai-models.html)》
+- 疑难杂症：《[修复 OpenCV 依赖错误的小工具：OpenCV Fixer](https://soulteary.com/2024/01/07/fix-opencv-dependency-errors-opencv-fixer.html)》/ 《[在 Nvidia Docker 容器编译构建显存优化加速组件 xFormers](https://soulteary.com/2024/01/12/xformers-source-code-compilation-with-nvidia-docker.html)》
 
 ## 快速启动
 
