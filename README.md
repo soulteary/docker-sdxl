@@ -14,8 +14,9 @@
 ## 使用教程
 
 - 第一篇：《[使用 Docker 快速上手 Stability AI 的 SDXL 1.0 正式版](https://zhuanlan.zhihu.com/p/646706041)》
-- 第二篇：TBD
-- 第三篇：TBD
+- 第二篇：《[使用 Docker 和 Diffusers 快速上手 Stable Video Diffusion 图生视频大模型](https://soulteary.com/2024/01/08/stable-video-diffusion-quick-start-with-docker-and-diffusers.html)》
+- 第三篇：《[Stable Diffusion XL Turbo 文生图和图生图实践](https://soulteary.com/2024/01/13/stable-diffusion-xl-turbo-image-generation.html)》
+
 
 - 环境准备：《[基于 Docker 的深度学习环境：Windows 篇](https://zhuanlan.zhihu.com/p/646758615)》/ 《[基于 Docker 的深度学习环境：入门篇](https://soulteary.com/2023/03/22/docker-based-deep-learning-environment-getting-started.html)》
 
